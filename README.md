@@ -1,6 +1,8 @@
 I have used ZLSwipeavleView for executing this project.
 
 Usage
+
+
 ZLSwipeableView can be added to storyboard or instantiated programmatically:
 
 ZLSwipeableView *swipeableView = [[ZLSwipeableView alloc] initWithFrame:self.view.frame];
